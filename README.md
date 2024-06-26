@@ -1,2 +1,2 @@
-# Spotify-Ivan
-<h1>Made by Riski Muhammad Ivan<h1>
+# Spotify-Aethers
+<h1>Made by AethersCode<h1>
