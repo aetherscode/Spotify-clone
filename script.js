@@ -53,7 +53,7 @@ function showTrackInfo(trackUrl) {
 
             modalTitle.textContent = data.title;
             modalContent.innerHTML = `
-                <p class="text-center"><strong>Spotify Ivan<strong></p>
+                <p class="text-center"><strong>Aetherspotify<strong></p>
                 <img src="${data.thumbnail}" alt="${data.title}" class="w-100 rounded">
                 <p><strong>Artist:</strong> ${data.artist}</p>
                 <p><strong>Album:</strong> ${data.album}</p>
